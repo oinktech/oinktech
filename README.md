@@ -5,8 +5,8 @@ Welcome to OinkTech's official GitHub page! 🎉 Here you'll find our open-sourc
 ## Language / 語言選擇 / 言語選択 🌐
 
 - [English](#overview-)
-- [繁體中文](#繁體中文)
-- [日本語](#日本語)
+- [繁體中文](#Chinese)
+- [日本語](#日本語 🇯🇵)
 
 ---
 
@@ -94,7 +94,7 @@ Thank you for visiting the OinkTech GitHub page! We appreciate your interest and
 
 ---
 
-## 繁體中文 📘
+## Chinese 📘
 
 歡迎來到 OinkTech 的官方 GitHub 頁面！🎉 在這裡，你會找到我們的開源項目和貢獻，旨在提升開發者體驗並促進技術創新。🚀
 
