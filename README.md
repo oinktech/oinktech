@@ -1,27 +1,28 @@
 # OinkTech 🐷
 
-Welcome to OinkTech's official GitHub page! 🎉 Here you'll find our open-source projects and contributions aimed at enhancing the developer experience and promoting innovation in technology. 🚀
+Welcome to OinkTech's official GitHub page! 🎉 We're dedicated to providing open-source projects and resources to enhance your development experience. Explore our projects, contribute, and join our community! 🚀
+
+---
 
 ## Language / 語言選擇 / 言語選択 🌐
 
+Choose your language / 選擇語言 / 言語を選ぶ:
+
 - [English](#overview-)
-- [繁體中文](#Chinese)
-- [日本語](#日本語 🇯🇵)
+- [繁體中文](#繁體中文)
+- [日本語](#日本語)
 
 ---
 
 ## Overview 🌟
 
-OinkTech is dedicated to creating high-quality software tools and resources for the developer community. From code architecture tools to advanced development frameworks, our goal is to make your coding journey smoother and more productive.
+**OinkTech** is committed to delivering top-notch software tools and resources for developers. Our projects span from architecture design tools to advanced frameworks, designed to make your coding journey smoother and more efficient.
 
-- **Website**: [OinkTech Official Website](https://oinktech.github.io) 🌐
-- **Code Architect Studio**: [Explore Code Architect Studio](https://oinktech.github.io/CodeArchitectStudio/) 🏗️
-
-### Projects 🚀
+### Our Projects 🚀
 
 #### Code Architect Studio 🧩
 
-Code Architect Studio is a powerful tool designed to help developers visualize and manage their code architecture. It provides an intuitive interface for designing and analyzing software systems, making it easier to understand and optimize your codebase.
+Code Architect Studio is a robust tool for visualizing and managing code architecture. It offers an intuitive interface for designing and analyzing software systems, making it easier to understand and optimize your codebase.
 
 - **Project Page**: [Code Architect Studio](https://oinktech.github.io/CodeArchitectStudio/) 📊
 - **Features**:
@@ -29,7 +30,7 @@ Code Architect Studio is a powerful tool designed to help developers visualize a
   - Interactive design tools 🎨
   - Integration with various development environments 🔗
 - **Getting Started**:
-  - Visit the [Code Architect Studio Documentation](https://oinktech.github.io/CodeArchitectStudio/docs) 📚 to learn how to get started.
+  - Visit the [Code Architect Studio Documentation](https://oinktech.github.io/CodeArchitectStudio/docs) 📚 to get started.
 
 ### Installation 🛠️
 
@@ -54,62 +55,59 @@ To get started with our projects, follow these steps:
 
 ### Usage 📖
 
-For detailed usage instructions, refer to the documentation provided for each project. You can find the documentation at the following links:
+For detailed usage instructions, refer to the documentation provided for each project:
 
 - [Code Architect Studio Documentation](https://oinktech.github.io/CodeArchitectStudio/docs) 📘
 
 ### Contributing 🤝
 
-We welcome contributions from the community! If you’d like to contribute to our projects, please follow these steps:
+We welcome community contributions! To contribute:
 
 1. **Fork the repository**: Click the "Fork" button on the top right of the repository page.
 2. **Create a new branch**: 
     ```bash
     git checkout -b my-new-feature
     ```
-3. **Make your changes** and **commit them**: 
+3. **Make changes and commit**: 
     ```bash
-    git commit -am 'Add some feature'
+    git commit -am 'Add new feature'
     ```
-4. **Push your changes** to your forked repository:
+4. **Push changes to your fork**:
     ```bash
     git push origin my-new-feature
     ```
 5. **Open a pull request**: Go to the original repository and open a pull request with a description of your changes.
 
-For detailed contributing guidelines, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository. ✨
+For detailed contributing guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file in the repository. ✨
 
 ### License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact 📬
 
-For any questions or inquiries, please reach out to us:
+For questions or inquiries, please contact us:
 
 - **Email**: [oinktech2024@gmail.com](mailto:oinktech2024@gmail.com) 📧
 - **Twitter**: [@oinktech2024](https://x.com/oinktech2024) 🐦
 
-Thank you for visiting the OinkTech GitHub page! We appreciate your interest and contributions. Happy coding! 😄
+Thank you for visiting OinkTech's GitHub page! We appreciate your interest and contributions. Happy coding! 😄
 
 ---
 
-## Chinese 📘
+## 繁體中文 📘
 
-歡迎來到 OinkTech 的官方 GitHub 頁面！🎉 在這裡，你會找到我們的開源項目和貢獻，旨在提升開發者體驗並促進技術創新。🚀
+歡迎來到 OinkTech 的官方 GitHub 頁面！🎉 我們致力於提供開源專案和資源，以提升您的開發體驗。探索我們的專案，貢獻您的力量，加入我們的社群！🚀
 
 ### 概述 🌟
 
-OinkTech 致力於為開發者社群創建高品質的軟體工具和資源。我們的專案範圍從代碼架構工具到先進的開發框架，我們的目標是使你的編程過程更加順暢和高效。
+**OinkTech** 致力於提供優質的軟體工具和資源。我們的專案範圍從架構設計工具到先進的框架，旨在使您的編程旅程更加順暢和高效。
 
-- **網站**: [OinkTech 官方網站](https://oinktech.github.io) 🌐
-- **代碼架構工作室**: [探索代碼架構工作室](https://oinktech.github.io/CodeArchitectStudio/) 🏗️
-
-### 專案 🚀
+### 我們的專案 🚀
 
 #### 代碼架構工作室 🧩
 
-代碼架構工作室是一個強大的工具，旨在幫助開發者可視化和管理他們的代碼架構。它提供了直觀的界面來設計和分析軟體系統，使你更容易理解和優化你的代碼庫。
+代碼架構工作室是一個強大的工具，用於可視化和管理代碼架構。它提供直觀的界面來設計和分析軟體系統，使您更容易理解和優化您的代碼庫。
 
 - **專案頁面**: [代碼架構工作室](https://oinktech.github.io/CodeArchitectStudio/) 📊
 - **功能**:
@@ -142,13 +140,13 @@ OinkTech 致力於為開發者社群創建高品質的軟體工具和資源。�
 
 ### 使用 📖
 
-有關詳細的使用說明，請參閱每個專案提供的文檔。你可以在以下鏈接找到文檔：
+有關詳細的使用說明，請參閱每個專案提供的文檔：
 
 - [代碼架構工作室文檔](https://oinktech.github.io/CodeArchitectStudio/docs) 📘
 
 ### 貢獻 🤝
 
-我們歡迎來自社群的貢獻！如果你想為我們的專案貢獻代碼，請按照以下步驟操作：
+我們歡迎社群的貢獻！若要貢獻代碼，請按照以下步驟操作：
 
 1. **Fork 倉庫**：點擊倉庫頁面右上角的“Fork”按鈕。
 2. **創建新分支**： 
@@ -159,13 +157,13 @@ OinkTech 致力於為開發者社群創建高品質的軟體工具和資源。�
     ```bash
     git commit -am '添加新功能'
     ```
-4. **推送更改** 到你的 Fork 倉庫：
+4. **推送更改** 到您的 Fork 倉庫：
     ```bash
     git push origin my-new-feature
     ```
-5. **打開 Pull Request**：前往原始倉庫，打開一個 Pull Request，並描述你的更改。
+5. **打開 Pull Request**：前往原始倉庫，打開一個 Pull Request，並描述您的更改。
 
-有關詳細的貢獻指南，請參閱倉庫中的 [CONTRIBUTING.md](CONTRIBUTING.md) 文件。 ✨
+詳細的貢獻指南請參閱倉庫中的 [CONTRIBUTING.md](CONTRIBUTING.md) 文件。 ✨
 
 ### 授權 📜
 
@@ -173,37 +171,34 @@ OinkTech 致力於為開發者社群創建高品質的軟體工具和資源。�
 
 ### 聯繫 📬
 
-如有任何問題或咨詢，請聯繫我們：
+如有任何問題或詢問，請聯繫我們：
 
 - **電子郵件**: [oinktech2024@gmail.com](mailto:oinktech2024@gmail.com) 📧
 - **Twitter**: [@oinktech2024](https://x.com/oinktech2024) 🐦
 
-感謝訪問 OinkTech 的 GitHub 頁面！我們感謝你的關注和貢獻。祝編程愉快！ 😄
+感謝您訪問 OinkTech 的 GitHub 頁面！我們感謝您的關注和貢獻。祝您編程愉快！ 😄
 
 ---
 
 ## 日本語 🇯🇵
 
-OinkTech の公式 GitHub ページへようこそ！🎉 ここでは、私たちのオープンソースプロジェクトや貢献を見つけることができ、開発者の体験を向上させ、技術革新を促進することを目指しています。🚀
+OinkTech の公式 GitHub ページへようこそ！🎉 私たちは、開発者の体験を向上させるためのオープンソースプロジェクトとリソースを提供しています。プロジェクトを探索し、貢献し、コミュニティに参加してください！🚀
 
 ### 概要 🌟
 
-OinkTech は、開発者コミュニティのために高品質なソフトウェアツールとリソースを作成することに専念しています。コードアーキテクチャツールから高度な開発フレームワークまで、私たちの目標はあなたのコーディングの旅をよりスムーズで生産的にすることです。
+**OinkTech** は、開発者のために高品質なソフトウェアツールとリソースを提供することに専念しています。私たちのプロジェクトは、アーキテクチャ設計ツールから高度なフレームワークまで多岐にわたり、コーディングの旅をよりスムーズで効率的にします。
 
-- **ウェブサイト**: [OinkTech 公式ウェブサイト](https://oinktech.github.io) 🌐
-- **コードアーキテクトスタジオ**: [コードアーキテクトスタジオを探る](https://oinktech.github.io/CodeArchitectStudio/) 🏗️
-
-### プロジェクト 🚀
+### 私たちのプロジェクト 🚀
 
 #### コードアーキテクトスタジオ 🧩
 
-コードアーキテクトスタジオは、開発者がコードアーキテクチャを視覚化し管理するのを助ける強力なツールです。直感的なインターフェースを提供し、ソフトウェアシステムを設計・分析することで、コードベースを理解し最適化しやすくします。
+コードアーキテクトスタジオは、コードアーキテクチャを視覚化し管理するための強力なツールです。直感的なインターフェースを提供し、ソフトウェアシステムを設計・分析することで、コードベースを理解し最適化しやすくします。
 
 - **プロジェクトページ**: [コードアーキテクトスタジオ](https://oinktech.github.io/CodeArchitectStudio/) 📊
 - **機能**:
   - コードアーキテクチャの視覚化 📈
   - インタラクティブなデザインツール 🎨
-  - さまざまな開発環境との統合 🔗
+  - 様々な開発環境との統合 🔗
 - **使い始めるには**:
   - [コードアーキテクトスタジオのドキュメント](https://oinktech.github.io/CodeArchitectStudio/docs) 📚 を訪れて、使い始める方法を学んでください。
 
