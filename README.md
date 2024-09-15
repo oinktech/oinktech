@@ -9,8 +9,8 @@ Welcome to **OinkTech's** official GitHub page! 🎉 We are dedicated to providi
 Choose your language / 選擇語言 / 言語を選ぶ:
 
 - [English](#English)
-- [繁體中文](#繁體中文)
-- [日本語](#日本語)
+- [繁體中文](#繁體中文-)
+- [日本語](#日本語-)
 
 ---
 ### English
